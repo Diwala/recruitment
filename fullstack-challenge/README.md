@@ -25,6 +25,8 @@ Generate a Node.js project. You can add libraries of your choice, but be ready t
 
 Project description
 -------------------
+# Intro
+You are free to solve this in any UI form you like. Remember to read the whole text and evaluation before you start any coding. It is important information there.
 
 **Pizzeria**
 
@@ -64,12 +66,15 @@ Our goal is to find answers to those questions:
 
 To set a scope of the task, so we dont take too much of your time, consider the following:
 
-* It is not important to have a fully functional application at the end
-* The goals might shift during the progress as we discuss the work flow
-* The front-end does not have to be beautiful
+* It is not important to have a fully functional application at the end, we find our way and scope along the way.
+* The goals might shift during the progress as we discuss during the work flow
+* The front-end does not have to be beautiful, it can even be CLI if that is what you feel comfortable with.
+
+We just want to see at what level of engangement and knowledge you put yourself.
+If you decide to do one implementation and explain the rest of future work in words and clear detail, that is also fine.
 
 Levels of functionality:
 
 * **basic** - items mentioned in description work
 * **above average** - some optional features
-* **exceptional** - getting tests to continuously build, deploy to heroku, etc.
+* **exceptional** - getting the app to continuously build, deploy to the cloud, give a url to work with, etc.
