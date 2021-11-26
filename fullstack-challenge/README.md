@@ -10,16 +10,16 @@ Prerequisites
 * [Git](https://git-scm.com/)
 * Some storage of choice, [PostgresSQL](https://www.postgresql.org/), [SQLLite](https://www.sqlite.org/index.html), [MongoDB](https://www.mongodb.com/), [MySQL](https://www.mysql.com/) or any other suiting storage you find.
 
-* [Node.js](https://nodejs.org/)
-* Node.js framework of your choice (i.e. [Fastify](https://www.fastify.io/), [Express](https://expressjs.com/), [Loopback](https://loopback.io/) or any other you find suiting)
+* Any language of choice, but as you know, Diwala runs mostly on Typescript & [Node.js](https://nodejs.org/) and where our proficency is.
+* If you do Node.js, you have the choice of any framework you want (i.e. [Fastify](https://www.fastify.io/), [Express](https://expressjs.com/), [Loopback](https://loopback.io/) or any other you find suiting)
 
 Installation
 ------------
 
 Start a new repo with this README in it.
-We are note merging back to this repo because this repo shall stay clean of solutions
+We are not merging back to this repo because this repo shall stay clean of solutions
 
-Generate a Node.js project. You can add libraries of your choice, but be ready to describe them.
+Generate a the project. You can add libraries of your choice, but be ready to describe them.
 
 **We will not count any time spent until you have a working environment and made your choice of libs and stack**
 
@@ -47,7 +47,10 @@ Additionally, the following JSON API should be provided:
 * list of orders
 * details of an individual order
 
-Optional features:
+### Basic
+Would be great to be able to test the code in cloud somehow, dependant on your UI choice.
+
+### Optional features:
 
 * meaningful model validations (e.g. item amount > 0)
 * order bonuses (e.g. 5% cheaper when total over $50, 10% cheaper when total over ...)
@@ -68,13 +71,13 @@ To set a scope of the task, so we dont take too much of your time, consider the 
 
 * It is not important to have a fully functional application at the end, we find our way and scope along the way.
 * The goals might shift during the progress as we discuss during the work flow
-* The front-end does not have to be beautiful, it can even be CLI if that is what you feel comfortable with.
+* We are not looking for pixel perfection on the front-end, it can even be CLI or API portal if that is what you feel comfortable with.
 
-We just want to see at what level of engangement and knowledge you put yourself.
+We want to see at what level of engangement and knowledge you put yourself.
 If you decide to do one implementation and explain the rest of future work in words and clear detail, that is also fine.
 
 Levels of functionality:
 
-* **basic** - items mentioned in description work
+* **basic** - items mentioned in description and basic work
 * **above average** - some optional features
-* **exceptional** - getting the app to continuously build, deploy to the cloud, give a url to work with, etc.
+* **exceptional** - getting the app to continuously build, with extra coverage services and logging with alerts.
