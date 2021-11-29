@@ -10,7 +10,7 @@ Prerequisites
 
 * [Git](https://git-scm.com/)
 * A frontend framework of choice, we are open to whatever, we use React, Typescript in Diwala
-* Some storage of choice LocalStorage, IndexDB, [SQLLite](https://www.sqlite.org/index.html), [Firebase](https://firebase.google.com/), [MongoDB](https://www.mongodb.com/), [MySQL](https://www.mysql.com/), [PostgresSQL](https://www.postgresql.org/) or any other suiting storage you find.
+* Some storage of choice LocalStorage, [IndexDB](https://developers.google.com/web/ilt/pwa/lab-indexeddb), [SQLLite](https://www.sqlite.org/index.html), [Firebase](https://firebase.google.com/), [MongoDB](https://www.mongodb.com/), [MySQL](https://www.mysql.com/), [PostgresSQL](https://www.postgresql.org/) or any other suiting storage you find.
 
 Installation
 ------------
